@@ -1,3 +1,8 @@
+//
+// Playing with a Quad 16 Segment Display
+// by Hari Wiguna, Oct 2018
+//
+
 const byte segP = PB11; // PB11, PB10, PB1, PB0, PA7, PA6, PA5, PA4, PA3, PA2, PA1, PA0, PC15, PC14, PC13
 const byte segI = PB10;
 const byte segJ = PB1;
